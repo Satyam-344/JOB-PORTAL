@@ -1,0 +1,20 @@
+# Claude local files — never push these
+.claude/
+CLAUDE.md
+memory/
+memory.md
+logs.md
+rules.md
+.claude.json
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Node
+node_modules/
+
+# Env files
+.env
+.env.local
+.env.*.local
